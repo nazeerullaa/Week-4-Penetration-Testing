@@ -134,12 +134,17 @@ authorized lab environment to demonstrate the weakness.
 <img width="982" height="847" alt="PDF 1 evidence" src="https://github.com/user-attachments/assets/79bfd9cb-5ade-45eb-b941-25bdec3ed52b" />
 
 **Password:** `[123456]`
-### PDF  2
-<img width="977" height="837" alt="image" src="https://github.com/user-attachments/assets/7e9d8a6c-d905-40a5-81fd-7d66eb056171" />
-**password:** `[password]`
-### PDF  3
-<img width="985" height="842" alt="image" src="https://github.com/user-attachments/assets/d49e7eda-7f22-4e31-a8b3-2d45a6c15e78" />
-**password**  `[!@#$%^&]`
+### PDF 2
+
+<img width="977" height="837" alt="PDF 2 evidence" src="https://github.com/user-attachments/assets/7e9d8a6c-d905-40a5-81fd-7d66eb056171" />
+
+**Password:** `[password]`
+
+### PDF 3
+
+<img width="985" height="842" alt="PDF 3 evidence" src="https://github.com/user-attachments/assets/d49e7eda-7f22-4e31-a8b3-2d45a6c15e78" />
+
+**Password:** `[!@#$%^&]`
 
 
 
